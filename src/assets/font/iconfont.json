@@ -1,0 +1,23 @@
+{
+  "id": "1103983",
+  "name": "Font class",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9499005",
+      "name": "角标",
+      "font_class": "m-withomo-jiaobiao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10353521",
+      "name": "ali",
+      "font_class": "ali",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}

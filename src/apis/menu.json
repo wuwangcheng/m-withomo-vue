@@ -1,0 +1,75 @@
+[
+  {
+    "title": "首页",
+    "path": "home",
+    "children": []
+  },
+  {
+    "title": "产品中心",
+    "path": "product-center",
+    "children": [
+      {
+        "title": "通道机",
+        "path": "product-center"
+      },
+      {
+        "title": "手持机",
+        "path": "product-center"
+      },
+      {
+        "title": "通道机",
+        "path": "product-center"
+      },
+      {
+        "title": "手持机",
+        "path": "product-center"
+      },{
+        "title": "通道机",
+        "path": "product-center"
+      },
+      {
+        "title": "手持机",
+        "path": "product-center"
+      },
+      {
+        "title": "手持机",
+        "path": "product-center"
+      },{
+        "title": "通道机",
+        "path": "product-center"
+      },
+      {
+        "title": "手持机",
+        "path": "product-center"
+      }
+    ]
+  },
+  {
+    "title": "解决方案",
+    "path": "solutions",
+    "children": []
+  },
+  {
+    "title": "新闻动态",
+    "path": "news-dynamic",
+    "children": [
+      {
+        "title": "通道机",
+        "path": "product-center"
+      },
+      {
+        "title": "手持机",
+        "path": "product-center"
+      },
+      {
+        "title": "消防车",
+        "path": "product-center"
+      }
+    ]
+  },
+  {
+    "title": "关于我们",
+    "path": "about",
+    "children": []
+  }
+]
